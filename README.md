@@ -8,6 +8,14 @@ Prezentare: https://www.youtube.com/watch?v=n9BQldYATUs
 
 Heroku: https://recipe-api-cc-frontend.herokuapp.com 
 
+Git:
+
+https://github.com/cristib98/cloudcomputing-frontend - **frontend**
+
+https://github.com/cristib98/cloudcomputing-backend -** backend**
+
+Prezentare:
+
   **Introducere**
 În prezent, după o continuă și accelerată evoluție a internetului, informația a devenit foarte accesibilă. Oamenii pot descoperi și învăța cu ușurință lucruri pentru care în trecut era nevoie de un efort considerabil mai mare printr-o simplă căutare pe internet. Acest lucru a crescut dorința oamenilor de a încerca noi hobby-uri și a făcut posibilă descoperirea mai ușoară a noi pasiuni prin simpla accesare a unor cursuri sau pagini pe web.
 	
