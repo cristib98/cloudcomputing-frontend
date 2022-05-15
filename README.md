@@ -12,7 +12,7 @@ Git:
 
 https://github.com/cristib98/cloudcomputing-frontend - **frontend**
 
-https://github.com/cristib98/cloudcomputing-backend -** backend**
+https://github.com/cristib98/cloudcomputing-backend - **backend**
 
 Prezentare:
 
